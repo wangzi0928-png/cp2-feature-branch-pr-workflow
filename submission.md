@@ -8,6 +8,13 @@ Pull Request Number:
 ## Commands Used
 
 Write the commands you used, one per line, in the order you used them.
+git clone https://github.com/wangzi0928-png/cp2-feature-branch-pr-workflow .
+git branch cp2-wangzi0928-png
+git switch cp2-wangzi0928-png
+git status
+git add .
+git commit -m "answer"
+git push origin -u cp2-wangzi0928-png
 
 ```text
 
